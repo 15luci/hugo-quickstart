@@ -1,7 +1,7 @@
 baseURL: "http://hugo-quickstart-template.netlify.com"
 languageCode: "en-us"
 title: "Lucilene Pedro"
-theme: "theme: PaperMod"
+theme: "PaperMod"
 menu:
   main:
     - name: "Início"
