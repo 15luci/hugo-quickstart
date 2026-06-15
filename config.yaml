@@ -8,8 +8,8 @@ menu:
       url: "/"
       weight: 1
     - name: "Publicações"
-      url: "/sobre/"
+      url: "/publicacoes/"
       weight: 2
     - name: "Pesquisas"
-      url: "/projetos/"
+      url: "/pesquisas/"
       weight: 3
