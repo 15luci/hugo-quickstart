@@ -15,6 +15,6 @@ Possui experiência em ambiente corporativo financeiro e gerencial em grandes em
 
 Possui artigos e livros publicados nas áreas de contabilidade, sustentabilidade e concessões de infraestrutura pública.
 
-**Lattes:** [Clique aqui para acessar o Lattes](https://lattes.cnpq.br/506437381792456)  
+**Lattes:** [Clique aqui para acessar o Lattes](http://lattes.cnpq.br/8506437381792456)  
 **E-mail:** [lucilene.pedro@fgv.edu.br](mailto:lucilene.pedro@fgv.edu.br)
 **E-mail2:** [lucilenepedro@tutanota.com.com](mailto:lucilenepedro@tutanota.com)
