@@ -3,7 +3,6 @@ title: "Projetos de Pesquisa"
 date: 2026-06-15
 ---
 <br>
-<br>
 
 ## Projeto 1: Análise do discurso dos relatórios de sustentabilidade e desempenho corporativo
 
