@@ -1,4 +1,15 @@
 baseURL: "http://hugo-quickstart-template.netlify.com"
 languageCode: "en-us"
-title: "Netlify + Hugo Quickstart"
+title: "Lucilene Pedro"
 theme: "netlify-basic"
+menu:
+  main:
+    - name: "Início"
+      url: "/"
+      weight: 1
+    - name: "Sobre"
+      url: "/sobre/"
+      weight: 2
+    - name: "Projetos"
+      url: "/projetos/"
+      weight: 3
