@@ -7,9 +7,9 @@ menu:
     - name: "Início"
       url: "/"
       weight: 1
-    - name: "Sobre"
+    - name: "Publicações"
       url: "/sobre/"
       weight: 2
-    - name: "Projetos"
+    - name: "Pesquisas"
       url: "/projetos/"
       weight: 3
