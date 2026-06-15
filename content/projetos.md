@@ -1,5 +1,5 @@
 ---
-title: "Projetos de pesquisa"
+title: "Projetos de Pesquisa"
 date: 2026-06-15
 ---
 
