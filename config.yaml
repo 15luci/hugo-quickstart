@@ -10,6 +10,6 @@ menu:
     - name: "Publicações"
       url: "/publicacoes/"
       weight: 2
-    - name: "Pesquisas"
-      url: "/pesquisas/"
+    - name: "Projetos"
+      url: "/projetos/"
       weight: 3
